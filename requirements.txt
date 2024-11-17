@@ -1,0 +1,8 @@
+torch==2.4.1.post2
+torchvision==0.19.1a0
+scikit-learn==1.2.2
+umap-learn==0.5.7
+matplotlib==3.9.2
+numpy==1.26.4
+Pillow==11.0.0
+joblib==1.4.2
