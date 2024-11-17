@@ -65,9 +65,9 @@ Example directory structure:
 Ejemplo de estructura de directorios:
 
 /data
-├── Captura de pantalla_1.png
-├── Captura de pantalla_2.png
-└── Captura de pantalla_3.png
+  ├── Captura de pantalla_1.png
+  ├── Captura de pantalla_2.png
+  └── Captura de pantalla_3.png
 
 ### Uso
 1. Preparación del conjunto de datos
